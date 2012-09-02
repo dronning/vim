@@ -1,2 +1,6 @@
+# Ignore
 /bundle
 /colors
+
+# Except
+!/bundle/vundle
