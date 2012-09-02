@@ -1,6 +1,11 @@
-# Ignore
-/bundle
-/colors
+# Ignore everything
+/*
 
-# Except
-!/bundle/vundle
+# Except these
+!.gitignore
+!vimrc
+!bundle/
+
+# bundle ignore
+bundle/*
+!bundle/vundle/
